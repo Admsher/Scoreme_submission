@@ -3,7 +3,7 @@
 This project uses `pdfpy` and `pandas` to process PDF files and extract tables into Excel format.  
 
 
-# #Execution
+## Execution
 
 The project can be run by just running.
 
@@ -21,4 +21,6 @@ pip install pdfpy
 pip install pandas
 ```
 
+## Giving file input
+Provide the filepath in filename in submission.py  uin the filepath variable.
 
