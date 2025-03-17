@@ -3,8 +3,9 @@
 This project uses `pdfpy` and `pandas` to process PDF files and extract tables into Excel format.  
 
 
-##Execution
-The projecy can be run by just running.
+# #Execution
+
+The project can be run by just running.
 
 ```bash
 python submission.py
